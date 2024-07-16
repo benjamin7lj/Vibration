@@ -1,0 +1,5 @@
+1) Nonuniform Torsional Vibration Analysis of a Shaft with One End Supported by a Gear and the Other End 
+Equipped with a Torsional Spring and Disk.
+2) Square membrane vibrations with non-uniform shear stress and tensile stress (Rayleigh-Ritz method).
+Vibration of Continuous Systems | (MATLAB)  
+
